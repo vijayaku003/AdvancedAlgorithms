@@ -1,2 +1,2 @@
 # AdvancedAlgorithms
-Reference Materails for Advanced Algorithms
+Reference Materials for Advanced Algorithms is available here. 
