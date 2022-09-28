@@ -1,0 +1,20 @@
+https://www.khanacademy.org/computing/computer-science/cryptography#modarithmetic
+https://www.gcsu.edu/sites/files/page-assets/node-808/attachments/maxey.pdf
+https://medium.com/swlh/what-the-heck-is-the-rsa-algorithm-18d96eb81e73
+
+rsa part 1 - https://www.youtube.com/watch?v=4zahvcJ9glg
+rsa part 2 - https://www.youtube.com/watch?v=oOcTVTpUsPQ
+
+http://www.cs.sjsu.edu/~stamp/CS265/SecurityEngineering/chapter5_SE/RSAmath.html
+
+Euclidean's extended algorithm:
+
+https://www.youtube.com/watch?v=mbrfypBXznI
+
+
+https://kconrad.math.uconn.edu/blurbs/
+
+
+Prime Sieves:
+https://www.youtube.com/watch?v=yB57bcffJo4
+https://www.youtube.com/watch?v=h9EHkZLekoY
