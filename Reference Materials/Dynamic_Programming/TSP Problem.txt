@@ -1,0 +1,14 @@
+Bit-Masking
+https://www.youtube.com/watch?v=7FmL-WpTTJ4&list=PLb3g_Z8nEv1icFNrtZqByO1CrWVHLlO5g&index=2
+
+DP with Bit-Masking
+https://www.youtube.com/watch?v=685x-rzOIlY&list=PLb3g_Z8nEv1icFNrtZqByO1CrWVHLlO5g&index=3
+
+TSP DP
+https://www.youtube.com/watch?v=QukpHtZMAtM&list=PLb3g_Z8nEv1icFNrtZqByO1CrWVHLlO5g&index=4
+
+https://www.youtube.com/watch?v=cY4HiiFHO1o
+
+Bitonic TSP
+https://www.youtube.com/watch?v=JLJkPKRjiio
+

@@ -1,0 +1,20 @@
+TSP 
+
+mod03lec15 - When Greedy Does Not Work - Traveling Salesman
+
+https://www.youtube.com/watch?v=FfN3xZIms5c
+
+Clear explanation on time complexity of TSP
+
+https://medium.com/analytics-vidhya/are-you-read-for-solving-the-traveling-salesman-problem-80e3c4ea45fc
+
+
+
+Scheduling Problems
+
+Dynamic programming - https://www.youtube.com/watch?v=cr6Ip0J9izc
+
+Greedy - https://www.youtube.com/watch?v=zPtI8q9gvX8
+
+Branch and bound - 
+

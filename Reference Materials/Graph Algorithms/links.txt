@@ -1,0 +1,41 @@
+Tarjan's algorithm:
+https://www.youtube.com/watch?v=ZeDNSeilf-Y&t=87s
+
+Find Articulation points using Tarjan's algorithm:
+https://www.youtube.com/watch?v=64KK9K4RpKE
+
+SSSP:
+https://www.youtube.com/watch?v=pVfj6mxhdMw&list=PLTd6ceoshprfgFGcdiQw9LQ3fXaYC-Zs2
+
+
+Source for Lab Assignment 1 - https://snap.stanford.edu/data/
+
+
+Group 1: Social networks : online social networks, edges represent interactions between people
+Group 2: Networks with ground-truth communities : ground-truth network communities in social and information networks
+Group 3: Communication networks : email communication networks with edges representing communication
+Group 4: Citation networks : nodes represent papers, edges represent citations
+Group 5: Collaboration networks : nodes represent scientists, edges represent collaborations (co-authoring a paper)
+Group 6: Web graphs : nodes represent webpages and edges are hyperlinks
+Group 7: Amazon networks : nodes represent products and edges link commonly co-purchased products
+Group 8: Internet networks : nodes represent computers and edges communication
+Group 9: Road networks : nodes represent intersections and edges roads connecting the intersections
+Group 10: Autonomous systems : graphs of the internet
+Group 11:Signed networks : networks with positive and negative edges (friend/foe, trust/distrust)
+Group 12: Location-based online social networks : social networks with geographic check-ins
+Group 13: Wikipedia networks, articles, and metadata : talk, editing, voting, and article data from Wikipedia
+Group 14: Temporal networks : networks where edges have timestamps
+Group 15: Twitter and Memetracker : memetracker phrases, links and 467 million Tweets
+Group 16: Face-to-face communication networks : networks of face-to-face (non-online) interactions
+
+Group List:
+
+
+You need to implement all the following graph algorithms for the specified graph data set:
+
+BFS + Topological Sorting
+Dijikstra's algorithm
+Belman Ford algorithm
+Floyd Warshall's algorithm 
+
+Clear documentation of algorithm, their complexity and the worst case running time for the chosen graph data set is must. 
